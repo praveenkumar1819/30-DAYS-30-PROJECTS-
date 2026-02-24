@@ -1,0 +1,9 @@
+Setup : 
+  kali
+  ubuntu server 
+
+enabled ssh in ubuntu and simulated failed logins and invalid user login attempts in kali 
+
+observed auth.log file to find these logs 
+
+/va/log/auth.log
